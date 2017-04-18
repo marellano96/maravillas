@@ -1,0 +1,151 @@
+{
+	"wonders": [{
+		"puesto": 1,
+"nombre": "Chichén Itzá",
+"lugar": "Yucatán, México",
+"longitud": 508,
+"latitud": 576,
+"foto": "https://www.openprocessing.org/sketch/421207/files/1.jpg"
+	}, {
+		"puesto": 2,
+"nombre": "Coliseo Romano",
+"lugar": "Roma, Italia",
+"longitud": 968,
+"latitud": 466,
+"foto": "https://www.openprocessing.org/sketch/421207/files/2.jpg"
+	}, {
+		"puesto": 3,
+"nombre": "Cristo redentor",
+"lugar": "Rio de Janeiro, Brazil",
+"longitud": 720,
+"latitud": 797,
+"foto": "https://www.openprocessing.org/sketch/421207/files/3.jpg"
+	}, {
+		"puesto": 4,
+"nombre": "Muralla China",
+"lugar": "China",
+"longitud": 1369,
+"latitud": 463,
+"foto": "https://www.openprocessing.org/sketch/421207/files/4.jpg"
+	}, {
+		"puesto": 5,
+"nombre": "Machu Picchu",
+"lugar": "Cuzco, Perú",
+"longitud": 582,
+"latitud": 754,
+"foto": "https://www.openprocessing.org/sketch/421207/files/5.jpg"
+	}, {
+		"puesto": 6,
+"nombre": "Petra",
+"lugar": "Jordania",
+"longitud": 1075,
+"latitud": 531,
+"foto": "https://www.openprocessing.org/sketch/421207/files/6.jpg"
+	}, {
+		"puesto": 7,
+"nombre": "Taj Mahal",
+"lugar": "Agra, India",
+"longitud": 1268,
+"latitud": 543,
+"foto": "https://www.openprocessing.org/sketch/421207/files/7.jpg"
+	}, {
+		"puesto": 8,
+"nombre": "Piramides Egipcias",
+"lugar": "Gyza, Egipto",
+"longitud": 1052,
+"latitud": 533,
+"foto": "https://www.openprocessing.org/sketch/421207/files/8.jpg"
+	}, {
+		"puesto": 9,
+"nombre": "Estatua de la libertad",
+"lugar": "Estados Unidos",
+"longitud": 607,
+"latitud": 451,
+"foto": "https://www.openprocessing.org/sketch/421207/files/9.jpg"
+	}, {
+		"puesto": 10,
+"nombre": "Torre Eiffel",
+"lugar": "París, Francia",
+"longitud": 929,
+"latitud": 430,
+"foto": "https://www.openprocessing.org/sketch/421207/files/10.jpg"
+	}, {
+		"puesto": 11,
+"nombre": "Stonehenge",
+"lugar": "Wiltshire, Inglaterra",
+"longitud": 909,
+"latitud": 417,
+"foto": "https://www.openprocessing.org/sketch/421207/files/11.jpg"
+	}, {
+		"puesto": 12,
+"nombre": "Castillo Neuschwanstein",
+"lugar": "Baviera, Alemania",
+"longitud": 963,
+"latitud": 435,
+"foto": "https://www.openprocessing.org/sketch/421207/files/12.jpg"
+	}, {
+		"puesto": 13,
+"nombre": "Mitad del Mundo",
+"lugar": "Pichincha, Ecuador",
+"longitud": 549,
+"latitud": 687,
+"foto": "https://www.openprocessing.org/sketch/421207/files/13.jpg"
+	}, {
+		"puesto": 14,
+"nombre": "Torre de Pisa",
+"lugar": "Toscana, Italia",
+"longitud": 960,
+"latitud": 460,
+"foto": "https://www.openprocessing.org/sketch/421207/files/14.jpg"
+	}, {
+		"puesto": 15,
+"nombre": "Monte Rushmore",
+"lugar": "Estados Unidos",
+"longitud": 478,
+"latitud": 425,
+"foto": "https://www.openprocessing.org/sketch/421207/files/15.jpg"
+	}, {
+		"puesto": 16,
+"nombre": "Alahambra",
+"lugar": "Granada, España",
+"longitud": 904,
+"latitud": 496,
+"foto": "https://www.openprocessing.org/sketch/421207/files/16.jpg"
+	}, {
+		"puesto": 17,
+"nombre": "Ciudad Prohibida",
+"lugar": "Pekin, China",
+"longitud": 1420,
+"latitud": 455,
+"foto": "https://www.openprocessing.org/sketch/421207/files/17.jpg"
+	}, {
+		"puesto": 18,
+"nombre": "Catedral San Basilio",
+"lugar": "Moscú, Rusia",
+"longitud": 1075,
+"latitud": 378,
+"foto": "https://www.openprocessing.org/sketch/421207/files/18.jpg"
+	}, {
+		"puesto": 19,
+"nombre": "Ópera Sidney",
+"lugar": "Sidney, Australia",
+"longitud": 1584,
+"latitud": 892,
+"foto": "https://www.openprocessing.org/sketch/421207/files/19.jpg"
+	}, {
+		"puesto": 20,
+"nombre": "Kiyomizu dera",
+"lugar": "Kioto, Japón",
+"longitud": 1518,
+"latitud": 468,
+"foto": "https://www.openprocessing.org/sketch/421207/files/20.jpg"
+	}, {
+		"puesto": 21,
+"nombre": "Santa Sofía",
+"lugar": "Estambul, Turquía",
+"longitud": 1039,
+"latitud": 475,
+"foto": "https://www.openprocessing.org/sketch/421207/files/21.jpg"
+
+	}]
+}
